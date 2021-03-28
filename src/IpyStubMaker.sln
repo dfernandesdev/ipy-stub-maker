@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpyStubMaker", "IpyStubMaker\IpyStubMaker.csproj", "{BE1B6FBB-9FAB-4ABD-8F53-18F0DB94093A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE1B6FBB-9FAB-4ABD-8F53-18F0DB94093A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1B6FBB-9FAB-4ABD-8F53-18F0DB94093A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1B6FBB-9FAB-4ABD-8F53-18F0DB94093A}.Debug|x64.ActiveCfg = Debug|x64
+		{BE1B6FBB-9FAB-4ABD-8F53-18F0DB94093A}.Debug|x64.Build.0 = Debug|x64
+		{BE1B6FBB-9FAB-4ABD-8F53-18F0DB94093A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1B6FBB-9FAB-4ABD-8F53-18F0DB94093A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1B6FBB-9FAB-4ABD-8F53-18F0DB94093A}.Release|x64.ActiveCfg = Release|x64
+		{BE1B6FBB-9FAB-4ABD-8F53-18F0DB94093A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1466506-CAFB-4A16-8B2C-B5673366904B}
+	EndGlobalSection
+EndGlobal
